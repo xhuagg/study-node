@@ -6,3 +6,6 @@ var a = math.add(1,6);
 var b = math.mul(8, 19);
 
 console.log("a=" + a + ",b=" + b);
+
+var fs = require("fs");
+//console.log(fs);
